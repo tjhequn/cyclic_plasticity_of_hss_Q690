@@ -1,1 +1,5 @@
+This folder contains the test data of uniaxial tensile test and two cyclic test.
 
+In MTS_01.mat, the first column is the true strain, the second column is the true stress
+
+In CTS_06.mat and CTS_07.mat, the first column is the loading cycle, the second column is the true strain, the last column is the true stress.
