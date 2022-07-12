@@ -1,1 +1,5 @@
+This folder contains two .inp cases for the usage of the developed UMAT subroutine.
 
+The first one is the single element case under uniaxial cyclic loading
+
+The second one is the beam-column connection under cyclic loading.
